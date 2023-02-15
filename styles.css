@@ -1,0 +1,27 @@
+﻿.CSResources {
+	font-family: Trebuchet MS, sans serif;
+}
+
+.HTML > h2{
+	margin-bottom:0px;
+}
+
+.HTML > a{
+	margin-top:5px;
+}
+
+.CSS > h2{
+	margin-bottom:0px;
+}
+
+.CSS > a{
+	margin-top:5px;
+}
+
+.Python > h2{
+	margin-bottom:0px;
+}
+
+.Python > a{
+	margin-top:5px;
+}
